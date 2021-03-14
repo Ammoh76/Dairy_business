@@ -28,6 +28,9 @@ var totalProductionCalculation=function(e,f,g,h){
   h + " litres per day <br><br> </p> "
   document.getElementById("total").innerHTML="The total production is " + total + " liters per day"
 }
+function reset() {
+  location.reload();
+} 
 
 
 
