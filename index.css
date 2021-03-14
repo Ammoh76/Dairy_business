@@ -6,7 +6,13 @@
   width: auto;
   padding: auto;
   margin-bottom: 10px;
+  display: block;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 h1{
   color: brown;
+}
+.button{
+  color: blue;
+  border: 0.5px solid red;
 }
