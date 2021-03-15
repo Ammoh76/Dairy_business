@@ -2,7 +2,7 @@
 ## Author
 Amos Kiprotich
 ## Description
-Its a website that expalins more about my DairyBusiness
+Its a program the helps me in my Dairy Business
 ### Prerequisites
 You need to have git installed
 You can install it with the following command in your terminal
