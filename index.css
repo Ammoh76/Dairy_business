@@ -16,3 +16,7 @@ h1{
   color: blue;
   border: 0.5px solid red;
 }
+.input-field{
+  color: green;
+  margin-bottom: 2px;
+}
