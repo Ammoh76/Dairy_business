@@ -31,6 +31,15 @@ var totalProductionCalculation=function(e,f,g,h){
 function reset() {
   location.reload();
 } 
+var finance=function(){
+  var selling_price=45
+  var noOfdays=document.getElementById("days").value
+  time=parseFloat(noOfdays);
+  incomeOverTime(selling_price, time)}
 
+var incomeOverTime=function(selling_price,time){
+  if(time===7){
+    document.getElementById("time-display").innerHTML="<P> Your weekly income will be  " + 
+  }
 
-
+}
